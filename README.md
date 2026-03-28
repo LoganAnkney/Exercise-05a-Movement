@@ -8,11 +8,11 @@ The first Unity 3D exercise, a simple first-person-controlled character.
 
 ## References
 
-None
+Teacher Video Explanation
 
 ## Future Development
 
 None
 
 ## Created by 
- 
+ Logan Ankney
